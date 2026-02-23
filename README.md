@@ -1,6 +1,6 @@
 # Dylan Di Filippo
 
-Full Stack & AI Engineer based in Brussels. 7+ years building web apps across media, fashion, energy, and sustainability. I ship products that drive real business results.
+Full Stack & Product Engineer based in Brussels. 7+ years building web apps across media, fashion, energy, and sustainability. I ship products that drive real business results.
 
 Currently freelancing, building AI-powered applications and helping companies ship faster.
 
